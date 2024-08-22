@@ -32,9 +32,26 @@ Actualmente estoy aprendiendo sobre web scraping y manipulación de datos en Pyt
 
 A continuación, se muestran algunos de los gráficos creados durante este análisis:
 
+### Promedio precio USD por comuna
 ![image](https://github.com/user-attachments/assets/d7a61ae4-edf4-465f-8a8f-82a6296486a0)
+
+### Número de avisos por comuna
+![image](https://github.com/user-attachments/assets/0310ce45-8ffe-4ab7-82f2-37ebee202cb2)
+
+### Promedio área construida y comuna de publicación de aviso
+![image](https://github.com/user-attachments/assets/9661f135-097c-4a06-a008-b38cb92d407e)
+
+### Promedio de estacionamientos y baños por comuna
+![image](https://github.com/user-attachments/assets/4207170e-2339-43a1-9cf2-da6473d803d4)
+
+### Número promedio de dormitorios por comuna
+![image](https://github.com/user-attachments/assets/cbb6bfe4-6316-49c4-8692-2df2986b15fd)
 
 
 ## Conclusiones
 
-Este análisis inicial me ha permitido entender mejor el proceso de limpieza y análisis de datos en Excel, y estoy entusiasmado por aplicar y expandir estos conocimientos en Python en un futuro cercano.
+- En el análisis realizado, se identificaron patrones claros en los valores de venta y características de las viviendas según la comuna.
+- Comunas como El Monte, San Ramón, La Pintana y Lo Espejo destacan por tener los valores de venta más bajos, así como menores áreas construidas, número de baños y dormitorios.
+- Este patrón contrasta con comunas como Vitacura, Providencia y Las Condes, donde los precios y características son considerablemente más altos.
+- Además, se observó que Puente Alto es la comuna con el mayor número de avisos, lo cual es consistente con su gran tamaño y densidad poblacional.
+
